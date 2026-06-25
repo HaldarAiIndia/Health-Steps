@@ -1,0 +1,370 @@
+Create a complete Android app with premium UI inspired by StepCount app. Do not copy assets or branding, but recreate a similar modern experience using Material Design 3 and dynamic colors.
+
+────────────────────
+APP INFORMATION
+────────────────────
+
+App Name: [Health Steps]
+Package Name: [com.HaldarAi.HealthSteps]
+
+Platform: Android
+Language: Kotlin
+UI: Jetpack Compose
+Architecture: MVVM + Clean Architecture
+Min SDK: 24
+Target SDK: 36
+
+Use latest Material 3 components and support dynamic colors (Monet).
+
+Create a smooth, elegant and premium health dashboard similar to StepCount.
+
+────────────────────
+DESIGN STYLE
+────────────────────
+
+Style:
+- Minimal
+- Premium
+- Clean
+- Rounded corners
+- Smooth animations
+- Modern cards
+- Edge-to-edge layout
+
+Colors:
+- Dynamic Material You colors
+- Light and dark theme
+- Adaptive backgrounds
+
+Corner radius:
+- Cards: 28dp
+- Buttons: 24dp
+
+Typography:
+- Material 3 typography
+- Large bold numbers
+- Minimal text
+
+Icons:
+- Rounded Material Symbols
+
+Animations:
+- Fade
+- Scale
+- Slide transitions
+- Progress animations
+- Number counting animation
+
+────────────────────
+BOTTOM NAVIGATION
+────────────────────
+
+Create a floating bottom navigation bar with:
+
+1. Dashboard
+2. Statistics
+3. History
+4. Goals
+5. Settings
+
+Features:
+- Rounded container
+- Blur effect
+- Elevation shadow
+- Active indicator animation
+
+────────────────────
+HOME SCREEN
+────────────────────
+
+Top App Bar:
+- Greeting text
+- Today's date
+- Profile picture
+
+Main Hero Card:
+Large rounded card containing:
+
+Today's Steps
+Animated number
+Circular progress ring
+Calories burned
+Distance walked
+Active time
+
+Card style:
+- Glassmorphism
+- Large radius
+- Material shadows
+
+────────────────────
+STEP PROGRESS RING
+────────────────────
+
+Large animated circular progress indicator.
+
+Center:
+
+Step Count
+Example:
+8,547
+
+Below:
+
+Goal:
+10,000 Steps
+
+Progress percentage
+
+Animation:
+Smooth progress filling.
+
+────────────────────
+QUICK STATS CARDS
+────────────────────
+
+Grid cards:
+
+Calories
+Distance
+Active Minutes
+Average Speed
+
+Card properties:
+Height 120dp
+Rounded corners
+Gradient backgrounds
+Icons
+Smooth animations
+
+────────────────────
+WEEKLY CHART
+────────────────────
+
+Beautiful bar chart showing:
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
+Features:
+- Rounded bars
+- Animated values
+- Gradient colors
+
+────────────────────
+ACTIVITY HISTORY
+────────────────────
+
+List with cards:
+
+Date
+Steps
+Calories
+Distance
+
+Swipe animation
+Expandable cards
+
+────────────────────
+STATISTICS SCREEN
+────────────────────
+
+Tabs:
+
+Daily
+Weekly
+Monthly
+Yearly
+
+Include:
+
+Line chart
+Bar chart
+Average steps
+Best day
+Longest streak
+Most active week
+
+Cards with large radius.
+
+────────────────────
+GOALS SCREEN
+────────────────────
+
+Daily goal
+
+Custom target:
+5000
+8000
+10000
+15000
+20000
+
+Progress ring
+Achievement cards
+Streak counter
+
+────────────────────
+ACHIEVEMENTS
+────────────────────
+
+Badges:
+
+First 1000 steps
+5000 steps
+10000 steps
+7-day streak
+30-day streak
+100000 total steps
+
+Locked and unlocked states.
+
+────────────────────
+HISTORY SCREEN
+────────────────────
+
+Calendar view
+
+Daily records
+
+Search
+
+Filter by:
+Week
+Month
+Year
+
+Export data
+
+────────────────────
+SETTINGS SCREEN
+────────────────────
+
+Profile
+
+Theme:
+System
+Light
+Dark
+
+Dynamic colors
+
+Units:
+Kilometers
+Miles
+
+Notifications
+
+Daily reminder
+
+Goal settings
+
+Backup and restore
+
+About
+
+Privacy policy
+
+────────────────────
+ANIMATIONS
+────────────────────
+
+Use:
+
+AnimatedVisibility
+Crossfade
+Shared transitions
+Scale animation
+Spring animation
+Smooth number animation
+
+60fps smooth performance.
+
+────────────────────
+MATERIAL 3 COMPONENTS
+────────────────────
+
+Scaffold
+TopAppBar
+NavigationBar
+Cards
+FilledButton
+SegmentedButton
+Switch
+Slider
+Dialog
+BottomSheet
+DatePicker
+SnackBar
+FAB
+
+────────────────────
+UI DETAILS
+────────────────────
+
+Spacing:
+8dp
+12dp
+16dp
+24dp
+
+Large cards:
+28dp radius
+
+Icons:
+Material Symbols Rounded
+
+Shadows:
+Soft elevation
+
+Glass effect:
+Blur background
+
+────────────────────
+ACCESSIBILITY
+────────────────────
+
+Large text support
+TalkBack support
+High contrast mode
+Responsive layout
+
+────────────────────
+DARK MODE
+────────────────────
+
+Full dark theme support
+
+Smooth theme switching
+
+Dynamic Material You colors
+
+────────────────────
+GENERATE
+────────────────────
+
+Generate:
+
+1. Complete UI/UX design.
+2. Folder structure.
+3. MVVM architecture.
+4. Navigation system.
+5. Jetpack Compose screens.
+6. Components.
+7. Reusable widgets.
+8. Theme files.
+9. Animations.
+10. State management.
+11. Models.
+12. Repositories.
+13. ViewModels.
+14. Material 3 implementation.
+15. Production-quality code.
+16. Premium StepCount-like user experience.
+
+The final app should look and feel similar to StepCount with modern Material 3 design, premium cards, large animated step counter, charts, glassmorphism, floating navigation and smooth transitions.
